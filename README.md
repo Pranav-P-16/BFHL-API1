@@ -27,12 +27,10 @@ JSON with fields:
 - concat_string (string)
 
 ## Environment variables (set in Vercel)
-- FULL_NAME (e.g. `john_doe`)
-- DOB (ddmmyyyy, e.g. `17091999`)
+- FULL_NAME
+- DOB
 - EMAIL
 - ROLL_NUMBER
-
-If not set, defaults are used.
 
 ## Examples (curl)
 Example A:
