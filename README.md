@@ -32,10 +32,3 @@ JSON with fields:
 - EMAIL
 - ROLL_NUMBER
 
-## Examples (curl)
-Example A:
-```bash
-curl -X POST 'https://<your-deploy>.vercel.app/bfhl' \
-  -H 'Content-Type: application/json' \
-  -d '{"data":["a","1","334","4","R","$"]}'
-```
