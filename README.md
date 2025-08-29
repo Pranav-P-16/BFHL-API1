@@ -2,6 +2,9 @@
 
 Simple serverless API for the BFHL assignment. Deploy to Vercel (or run locally).
 
+## Hosted in vercel @
+https://bfhl-api-1-git-main-pranav-ps-projects-edf35bd4.vercel.app/bfhl
+
 ## Route
 POST /bfhl
 
@@ -30,26 +33,6 @@ JSON with fields:
 - ROLL_NUMBER
 
 If not set, defaults are used.
-
-## Deploy
-1. Push this repository to GitHub.
-2. On Vercel, import the repo and set the environment variables listed above.
-3. After deploy, use `https://<your-deployment>.vercel.app/bfhl` (POST).
-
-## Local testing
-To run locally:
-
-1. Install dependencies:
-```bash
-npm install
-```
-
-2. Start:
-```bash
-npm start
-```
-
-The server will run at `http://localhost:3000/bfhl`.
 
 ## Examples (curl)
 Example A:
