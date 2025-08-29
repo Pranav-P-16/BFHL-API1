@@ -1,6 +1,6 @@
 # BFHL API
 
-Simple serverless API for the BFHL assignment. Deploy to Vercel (or run locally).
+Simple serverless API for the BFHL
 
 ## Hosted in vercel @
 https://bfhl-api-1-git-main-pranav-ps-projects-edf35bd4.vercel.app/bfhl
